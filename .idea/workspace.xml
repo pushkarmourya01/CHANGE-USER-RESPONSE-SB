@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7491b7c-9728-4197-9689-57552da52e35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/student/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/student/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/student/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/student/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/student/filters/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/student/filters/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/student/filters/ResponseFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/student/filters/ResponseFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/student/filters/ResponseHeaderFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/student/filters/ResponseHeaderFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/student/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/student/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/student/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/student/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/student/filters/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/student/filters/AuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/student/filters/ResponseHeaderFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/student/filters/ResponseHeaderFilter.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pushkarmourya01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pushkarmourya01/CHANGE-USER-RESPONSE-SB.git",
+    "accountId": "3213af66-bf10-41b6-8afb-b2a42875b1aa"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000005095702" />
+      <entry key="MS500" value="1.0138497140499199" />
+      <entry key="S2" value="1.3430521943781306" />
+      <entry key="S5" value="1.6518446128704167" />
+      <entry key="S10" value="1.8073693631722687" />
+      <entry key="S30" value="1.9427724111259774" />
+      <entry key="S60" value="2.1931159770301667" />
+      <entry key="M2" value="4.459639468956182" />
+      <entry key="M5" value="27.679688710559596" />
+      <entry key="M10" value="65.4697730674627" />
+      <entry key="M15" value="89.10547988391994" />
+      <entry key="M30" value="125.87290548089122" />
+      <entry key="H1" value="157.95337379235983" />
+      <entry key="H2" value="183.58771556850814" />
+      <entry key="H4" value="200.98181011912752" />
+      <entry key="D1" value="218.94016147486067" />
+      <entry key="W1" value="222.4094001808002" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.394477014174381E-123" />
+      <entry key="S2" value="2.5814779606096624E-31" />
+      <entry key="S5" value="7.620419691165188E-13" />
+      <entry key="S10" value="1.2436090233800887E-6" />
+      <entry key="S30" value="0.029706455063125196" />
+      <entry key="S60" value="0.5845503810049975" />
+      <entry key="M2" value="3.207547909567393" />
+      <entry key="M5" value="10.601604444726473" />
+      <entry key="M10" value="17.209179856800315" />
+      <entry key="M15" value="21.328927897369965" />
+      <entry key="M30" value="32.186470458939205" />
+      <entry key="H1" value="49.70604600028319" />
+      <entry key="H2" value="68.22616035681" />
+      <entry key="H4" value="82.22530731558835" />
+      <entry key="D1" value="97.46927249136888" />
+      <entry key="W1" value="100.4846994687351" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6417129487814521" />
+      <entry key="MS500" value="0.915201674413688" />
+      <entry key="S2" value="1.0786842406499797" />
+      <entry key="S5" value="1.39026082184371" />
+      <entry key="S10" value="1.627313996586172" />
+      <entry key="S30" value="1.8969304870558823" />
+      <entry key="S60" value="2.7281558499277" />
+      <entry key="M2" value="7.616877320127031" />
+      <entry key="M5" value="38.227478005179094" />
+      <entry key="M10" value="82.63388332171694" />
+      <entry key="M15" value="110.3959216434414" />
+      <entry key="M30" value="158.02795534601282" />
+      <entry key="H1" value="207.6331462907833" />
+      <entry key="H2" value="251.79491051799423" />
+      <entry key="H4" value="283.1953788456612" />
+      <entry key="D1" value="316.4070617303649" />
+      <entry key="W1" value="322.89374891314054" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KECILzJWQsOUWRjIkzWMLV2pwC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.StudentApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/MASTER BLASTER/ANTIGRAVITY/13TH_SB_FILTERS-II",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="13TH_SB_FILTERS-II" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="13TH_SB_FILTERS-II" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7491b7c-9728-4197-9689-57552da52e35" name="Changes" comment="" />
+      <created>1791113260104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791113260104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
